@@ -13,6 +13,9 @@
 - LangSmith API Key 발급 - 실행되는 과정 모니터링 가능
 > https://smith.langchain.com/o/738f7d5d-9b23-4da4-819b-caac8931479b/settings/apikeys
 
+- 패키지 설치
+`pip install -r requirements`
+
 ---
 
 - 대상
